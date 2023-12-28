@@ -1,0 +1,42 @@
+# Projet Gestion Bancaire en Langage C
+
+## Description
+Ce projet consiste en un système simple de gestion bancaire en langage C. Il offre des fonctionnalités telles que la gestion des clients, des comptes, et des opérations bancaires telles que les retraits et les versements.
+
+## Fonctionnalités
+- **Gestion des clients :**
+  - Ajouter un client
+  - Modifier un client
+  - Supprimer un client
+  - Afficher la liste des clients triée par nom
+
+- **Gestion des comptes :**
+  - Ajouter un compte
+  - Rechercher un compte
+  - Afficher la liste des comptes
+  - Supprimer un compte
+
+- **Opérations bancaires :**
+  - Retrait d'argent
+  - Versement d'argent
+
+## Utilisation
+1. Compiler le programme en utilisant un compilateur C .
+2. Exécuter le programme.
+3. Suivre les instructions du menu pour interagir avec le système de gestion bancaire.
+
+## Structure du Code
+- `main.c` : Le fichier principal du programme.
+- `client.txt` : Fichier de stockage des données des clients.
+- `compte.txt` : Fichier de stockage des données des comptes.
+
+## Auteur
+Amine Fakhfakh
+
+
+## Remarques
+- Les données des clients et des comptes sont stockées dans des fichiers texte (`client.txt` et `compte.txt`). Vous pouvez modifier ces fichiers directement ou à travers le programme.
+
+
+**Note pour le professeur :**
+Merci de prendre en compte que ce projet est une réalisation académique à des fins d'apprentissage et peut ne pas représenter un système de gestion bancaire complet dans un contexte réel.
